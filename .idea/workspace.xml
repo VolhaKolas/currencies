@@ -41,6 +41,7 @@
         <option value="$PROJECT_DIR$/views/currencies.php" />
         <option value="$PROJECT_DIR$/Controller/CurrenciesController.php" />
         <option value="$PROJECT_DIR$/Controller/CoursesController.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -178,12 +179,12 @@
       <option name="presentableId" value="Default" />
       <updated>1509631882132</updated>
       <workItem from="1509631883422" duration="14370000" />
-      <workItem from="1509658653582" duration="100000" />
+      <workItem from="1509658653582" duration="296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14470000" />
+    <option name="totallyTimeSpent" value="14666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="711" extended-state="6" />
@@ -334,6 +335,14 @@
             <marker date="1509658716000" expanded="true" signature="391:589" ph="SELECT d.d_d... " />
             <marker date="1509658716000" expanded="true" signature="391:602" ph="SELECT d.d_d... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
